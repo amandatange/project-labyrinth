@@ -10,4 +10,4 @@ If we had more time, we would have put more time in creating animated pages betw
 
 ## View it live
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://friendly-kleicha-27f8ee.netlify.app/
